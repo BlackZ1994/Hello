@@ -1,0 +1,1 @@
+echo 'zcfTest' | base 64
